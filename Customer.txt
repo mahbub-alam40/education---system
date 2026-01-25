@@ -1,0 +1,6 @@
+Banking System
+Customer information:
+Name	Address	Balance
+Rahim	Dhaka	50000
+Karim	Rajshahi	150000
+Jahir	Shylet	23000
